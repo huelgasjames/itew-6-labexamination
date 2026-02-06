@@ -75,8 +75,6 @@
     text-align: center;
     margin-bottom: 40px;
     padding: 40px 20px;
-    background: linear-gradient(135deg, #27ae60 0%, #16a085 100%);
-    color: white;
     border-radius: 12px;
   }
   
